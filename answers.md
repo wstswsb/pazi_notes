@@ -3,3 +3,4 @@
 @import "./answers/3.md"
 @import "./answers/4.md"
 @import "./answers/5.md"
+@import "./answers/6.md"
