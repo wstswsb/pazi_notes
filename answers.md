@@ -1,1 +1,1 @@
-@import "questions.md"
+@import "./answers/1.md"
