@@ -6,3 +6,4 @@
 @import "./answers/6.md"
 @import "./answers/7.md"
 @import "./answers/8.md"
+@import "./answers/9.md"
