@@ -9,3 +9,4 @@
 @import "./answers/9.md"
 @import "./answers/10.md"
 @import "./answers/11.md"
+@import "./answers/12.md"
