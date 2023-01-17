@@ -26,3 +26,4 @@
 @import "./answers/26.md"
 @import "./answers/27.md"
 @import "./answers/28.md"
+@import "./answers/29.md"
