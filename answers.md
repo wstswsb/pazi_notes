@@ -19,3 +19,4 @@
 @import "./answers/19.md"
 @import "./answers/20.md"
 @import "./answers/21.md"
+@import "./answers/22.md"
